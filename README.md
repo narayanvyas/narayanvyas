@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Flutter Projects, Website Projects
 - 🤔 I’m looking for help with Providers State Management on Flutter
 - 💬 Ask me about Flutter, Web, WordPress, Hosting
-- 📫 How to reach me: [Website - @narayanvyas.com](https://www.narayanvyas.org/), [Facebook - @narayanvyas87](https://facebook.com/narayanvyas87) , [Instagram - @narayanvyas87](https://instagram.com/narayanvyas87)
+- 📫 How to reach me: [Website - @narayanvyas.com](https://www.narayanvyas.org/), [Facebook - @narayanvyas87](https://facebook.com/narayanvyas87) , [Instagram - @narayanvyas87](https://instagram.com/narayanvyas87), [Linkedin - @narayanvyas87](https://www.linkedin.com/in/narayanvyas87/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:I can work on complex projects while watching Netflix
 

@@ -10,15 +10,15 @@
 - ⚡ Fun fact:I can work on complex projects while watching Netflix
 
 ## Flutter Projects I Have Made So Far -
-[UFit Trainer App - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.ufit_trainer)
-[MyShopee Ecommerce App With WordPress Backend - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.ufit_trainer)
+- [UFit Trainer App - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.ufit_trainer)
+- [MyShopee Ecommerce App With WordPress Backend - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.ufit_trainer)
 
 ## Website I Have Made So Far -
-[Acharya Astrology](https://www.acharyaastrology.com/)
-[Happy Life Space](https://www.happylifespace.in/)
-[Souliv](https://www.souliv.com/)
-[True Color Uniforms](https://www.truecoloruniforms.com/)
-[God Child Foundation](https://www.godchildfoundation.com/)
-[Dr. S Ranjan](https://www.drsranjan.com/)
+- [Acharya Astrology](https://www.acharyaastrology.com/)
+- [Happy Life Space](https://www.happylifespace.in/)
+- [Souliv](https://www.souliv.com/)
+- [True Color Uniforms](https://www.truecoloruniforms.com/)
+- [God Child Foundation](https://www.godchildfoundation.com/)
+- [Dr. S Ranjan](https://www.drsranjan.com/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=narayanvyas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">

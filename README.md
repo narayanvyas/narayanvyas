@@ -1,10 +1,5 @@
 ### Hola 👋
 
-<!--
-**narayanvyas/narayanvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on few Flutter Projects
 - 🌱 I’m currently learning R Language, Data Mining
 - 👯 I’m looking to collaborate on Flutter Projects, Website Projects
@@ -21,4 +16,3 @@ Here are some ideas to get you started:
 - Instagram: https://instagram.com/narayanvyas87
 
 <img src="https://github-readme-stats.vercel.app/api?username=narayanvyas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
--->

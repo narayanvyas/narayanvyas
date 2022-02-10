@@ -13,7 +13,7 @@
 - Zolnoi Integrate+ SAAS Platform - https://zolnoi.tk/
 - [Healthy Nutrients (Ecommerce App) - Play Store](https://play.google.com/store/apps/details?id=com.flexxited.healthy_nutrients)
 - [UFit Trainer App - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.ufit_trainer)
-- [MyShopee Ecommerce App With WordPress Backend - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.ufit_trainer)
+- [MyShopee Ecommerce App With WordPress Backend - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.myshopee)
 - [Attendance Manager - Play Store](https://play.google.com/store/apps/details?id=com.webdevfusion.attendance_manager)
 - [MDSU Exams Quiz App - Play Store](https://play.google.com/store/apps/details?id=com.narayanvyas.mdsuquiz)
 
